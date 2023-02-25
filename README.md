@@ -1,3 +1,4 @@
+![logo](https://github.com/Salmanakash007/Salmanakash007/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
 <h1 align="center">Hi ??, I'm Syed Amirullah</h1>
 <h3 align="center">A passionate frontend & backend developer from Bangladesh</h3>
 <img align="right" alt="codeing" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
